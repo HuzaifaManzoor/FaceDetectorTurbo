@@ -7,4 +7,8 @@ FaceDetectorTurbo utilizes the MediaPipe Face Detector for swift, accurate face 
 - Fast and accurate face detection optimized for CPU.
 - Suitable for real-time applications and resource-constrained environments.
 
+## Usage
+- just run the detect.py after install requirements.txt
 
+## install requirements
+- pip install -r requirements.txt
