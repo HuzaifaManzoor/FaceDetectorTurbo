@@ -14,5 +14,5 @@ FaceDetectorTurbo utilizes the MediaPipe Face Detector for swift, accurate face 
 - pip install -r requirements.txt
 
 
-## Results
+## Output Results
 ![Gif can,t be load](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU1NXprbHpqZjJ2MHA2ZjJvb3RmMjZkM211MGQ4MHV0bmk2Z24yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fCrdeiCzMkQ8AU1WV6/giphy.gif)
